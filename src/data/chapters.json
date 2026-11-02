@@ -1,0 +1,567 @@
+[
+  {
+    "id": "heritage",
+    "title": "India's Regional Food Heritage",
+    "shortTitle": "The living table",
+    "range": [
+      4,
+      8
+    ],
+    "introPages": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "description": "Food carries memory: it connects landscape, agriculture, family practice and community identity.",
+    "pages": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "openingPages": [
+      {
+        "page": 4,
+        "text": "Heritage of India\n📸: Magnific.com",
+        "images": [
+          "/images/chapters/heritage/page-004-image-01.png"
+        ]
+      },
+      {
+        "page": 5,
+        "text": "Indian Food Heritage\nThe Roots of Our Culture and Traditions\nIndia is a land of extraordinary cultural diversity, ancient traditions and rich\nhistory. Its heritage has developed over thousands of years through the\ncontributions of different communities, languages, religions, art forms and\nregional practices.\nIndian heritage is reflected in its architecture, festivals, music, dance,\nhandicrafts, clothing, agriculture and food traditions. Each region has its\nown identity, customs and knowledge, passed down from one generation to\nanother.\nHeritage is not just about preserving historical monuments; it is also about\nprotecting the everyday traditions and knowledge that shape people's lives.",
+        "images": []
+      },
+      {
+        "page": 6,
+        "text": "Food as an Important Part of Indian Heritage\nFood is one of the strongest expressions of India's cultural identity. Traditional\nrecipes reflect local agriculture, climate, geography and community lifestyles.\nDifferent regions have developed unique food traditions using locally available\ningredients.\nNorth India: Wheat-based dishes, pulses, dairy products and traditional\nbreads.\nSouth India: Rice, millets, coconut, lentils and fermented preparations.\nEast India: Rice, fish, seasonal vegetables and regional food preparations.\nWest India: Millets, pulses, desert foods, coastal ingredients and traditional\nvegetables.\nNaturally Grown and Wild Foods: Forest mushrooms, roots, tubers, wild\ngreens and seasonal plants.\nTraditional Fermentation: Fermented rice, vegetables, soybean products\nand bamboo shoots.",
+        "images": []
+      },
+      {
+        "page": 7,
+        "text": "Why Should We Preserve Indian Heritage?\nTo protect traditional knowledge and cultural identity.\nTo pass valuable practices to future generations.\nTo recognise the contributions of local and indigenous communities.\nTo preserve traditional crops, ingredients and food biodiversity.\nTo encourage appreciation of India's regional diversity.\nTo prevent traditional recipes and practices from disappearing.",
+        "images": []
+      },
+      {
+        "page": 8,
+        "text": "Indian Heritage and the Modern Generation\nModern lifestyles, urbanisation and changing food habits have influenced\ntraditional practices. Some local ingredients and forgotten recipes are becoming\nless familiar to younger generations.\nDocumenting traditional foods, collecting stories from local communities and\nrecording regional cooking methods can help preserve this knowledge.\nYoung people have an important role in connecting India's past with its future.",
+        "images": []
+      }
+    ],
+    "foodIds": [],
+    "images": [
+      "/images/chapters/heritage/page-004-image-01.png"
+    ],
+    "mapImage": null
+  },
+  {
+    "id": "north",
+    "title": "Foods of North India",
+    "shortTitle": "North India",
+    "range": [
+      9,
+      41
+    ],
+    "introPages": [
+      9,
+      10
+    ],
+    "description": "From Himachal's steamed breads to Kashmir's leafy greens, northern food traditions reflect mountain climates, dry landscapes and household kitchens.",
+    "pages": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "openingPages": [
+      {
+        "page": 9,
+        "text": "",
+        "images": [
+          "/images/chapters/north/page-009-image-01.png"
+        ]
+      },
+      {
+        "page": 10,
+        "text": "North India – States and Traditional Foods\nHimachal Pradesh is famous for Siddu, Sepu Badi and Dham.\nUttarakhand is known for Chainsoo, Kafuli and Bhatt ki Churkani.\nKashmir is famous for Haak, Rogan Josh and Dum Aloo.\nRajasthan is known for Ker Sangri, Dal Baati Churma and Gatte ki Sabzi.\nPunjab is famous for Makki di Roti, Sarson da Saag and Mah di Dal.\nWheat, maize, lentils, leafy vegetables and locally available ingredients\nare commonly used in North Indian cuisine.\nTraditional cooking methods include steaming, roasting, slow cooking\nand drying.\nFestivals, weddings and family celebrations are closely connected with\ntraditional North Indian foods.",
+        "images": []
+      }
+    ],
+    "foodIds": [
+      "siddu",
+      "chainsoo",
+      "haak",
+      "ker-sangri-rajasthan",
+      "mah-di-dal"
+    ],
+    "images": [
+      "/images/chapters/north/page-009-image-01.png"
+    ],
+    "mapImage": "/images/chapters/north/page-009-image-01.png"
+  },
+  {
+    "id": "fermentation",
+    "title": "Traditional Fermentation in India",
+    "shortTitle": "Fermentation",
+    "range": [
+      42,
+      78
+    ],
+    "introPages": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "description": "A living practice of preservation and transformation, fermentation gives local ingredients new textures, flavours and uses.",
+    "pages": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "openingPages": [
+      {
+        "page": 42,
+        "text": "",
+        "images": [
+          "/images/chapters/fermentation/page-042-image-01.png"
+        ]
+      },
+      {
+        "page": 43,
+        "text": "Fermentation\nFermentation is one of the oldest food-processing and preservation\ntechniques practised by communities around the world. It is a natural process\nin which microorganisms such as bacteria, yeasts and moulds transform food\ncomponents into different substances.\nIn India, fermentation has been an important part of traditional food culture\nfor generations. Different communities use locally available grains, vegetables,\nlegumes, bamboo shoots and other ingredients to prepare fermented foods.\nTraditional fermentation reflects the relationship between food, climate,\nagriculture, culture and local knowledge.",
+        "images": []
+      },
+      {
+        "page": 44,
+        "text": "Fermentation generally involves these stages:\n1.Selection of ingredients: Rice, vegetables, pulses, fruits or other locally\navailable ingredients are selected.\n2.Preparation: Ingredients are cleaned, cut, soaked, cooked or otherwise\nprepared according to the traditional method.\n3.Microbial activity: Naturally occurring or added microorganisms act on the\nfood.\n4.Transformation: Microorganisms convert sugars and other compounds into\nsubstances such as organic acids, gases or alcohol, depending on the\nfermentation process.\n5.Final food: The fermented product develops its characteristic flavour, aroma\nand texture.\nHow Does Fermentation Work?",
+        "images": []
+      },
+      {
+        "page": 45,
+        "text": "Importance of Traditional Fermentation\nFood preservation: Fermentation can help extend the usable life of certain\nfoods.\nDistinctive flavours: It develops unique sour, savoury and aromatic qualities.\nFood diversity: It creates different foods from locally available ingredients.\nCultural heritage: Traditional fermentation knowledge is passed between\ngenerations.\nFood transformation: Fermentation can change the texture, flavour and\nnutritional characteristics of ingredients.",
+        "images": []
+      }
+    ],
+    "foodIds": [
+      "hawaijar",
+      "soibum",
+      "sinki",
+      "gundruk",
+      "pazhaya-sadham"
+    ],
+    "images": [
+      "/images/chapters/fermentation/page-042-image-01.png"
+    ],
+    "mapImage": null
+  },
+  {
+    "id": "south",
+    "title": "Foods of South India",
+    "shortTitle": "South India",
+    "range": [
+      79,
+      112
+    ],
+    "introPages": [
+      79,
+      80
+    ],
+    "description": "Millets, rice, jackfruit and local greens shape a diverse southern food landscape grounded in season and place.",
+    "pages": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "openingPages": [
+      {
+        "page": 79,
+        "text": "",
+        "images": [
+          "/images/chapters/south/page-079-image-01.png"
+        ]
+      },
+      {
+        "page": 80,
+        "text": "South India – States and Traditional Foods\nAndhra Pradesh and Telangana are famous for spicy foods.\nKarnataka is known for Bisi Bele Bath and Mysore Masala Dosa.\nKerala is famous for Appam, Puttu and Kerala Sadya.\nTamil Nadu is known for Idli, Dosa, Sambar and Chettinad cuisine.\nBanana leaves are traditionally used for serving food.\nSouth Indian cuisine offers a variety of vegetarian and non-vegetarian dishes.\nFestivals and celebrations are incomplete without traditional South Indian\nfood.",
+        "images": []
+      }
+    ],
+    "foodIds": [
+      "ragi-sangati",
+      "ambali",
+      "chakka-puzhukku",
+      "ulundhu-kali",
+      "basale-pundi"
+    ],
+    "images": [
+      "/images/chapters/south/page-079-image-01.png"
+    ],
+    "mapImage": "/images/chapters/south/page-079-image-01.png"
+  },
+  {
+    "id": "east",
+    "title": "Foods of East India",
+    "shortTitle": "East India",
+    "range": [
+      113,
+      145
+    ],
+    "introPages": [
+      113,
+      114,
+      115
+    ],
+    "description": "Steamed pithas, rice dishes and fermented foods tell stories of regional ingredients and shared celebrations.",
+    "pages": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "openingPages": [
+      {
+        "page": 113,
+        "text": "",
+        "images": [
+          "/images/chapters/east/page-113-image-01.png"
+        ]
+      },
+      {
+        "page": 114,
+        "text": "Eastern India – A Land of Culture,\nHeritage and Traditional Food\nWhat makes Eastern India special?\nCulture and traditions: Famous for its festivals, folk dances,\nmusic, handicrafts and traditional art.\nNatural beauty: Blessed with fertile river plains, forests,\nhills, rivers and the Bay of Bengal coastline.\nAgriculture: Rice, lentils, vegetables and fish are\nimportant parts of everyday life.t\nEastern India is special because its people preserve their\ntraditional customs, cooking techniques and food\nculture across generations.",
+        "images": []
+      },
+      {
+        "page": 115,
+        "text": "A Taste of Eastern India's Traditional Cuisine\n1. Litti Chokha – Bihar: Wheat balls filled with roasted gram flour,\nserved with mashed vegetables.\n2. Macher Jhol – West Bengal: Traditional fish curry cooked with spices and\nvegetables.\n3. Pakhala Bhata – Odisha: Fermented rice served with vegetables and\ntraditional side dishes.\n4. Dalma – Odisha: A nutritious preparation of lentils and vegetables.\n5. Dhuska – Jharkhand: A deep-fried snack made from a rice and lentil batter.",
+        "images": []
+      }
+    ],
+    "foodIds": [
+      "gohona-bori",
+      "enduri-pitha",
+      "dal-pitha",
+      "jadoh",
+      "eromba"
+    ],
+    "images": [
+      "/images/chapters/east/page-113-image-01.png"
+    ],
+    "mapImage": "/images/chapters/east/page-113-image-01.png"
+  },
+  {
+    "id": "wild",
+    "title": "Naturally Grown and Wild Foods",
+    "shortTitle": "Wild foods",
+    "range": [
+      146,
+      183
+    ],
+    "introPages": [
+      146
+    ],
+    "description": "Seasonal forest foods, indigenous greens and hardy grains reflect generations of ecological knowledge.",
+    "pages": [
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "openingPages": [
+      {
+        "page": 146,
+        "text": "",
+        "images": [
+          "/images/chapters/wild/page-146-image-01.png"
+        ]
+      }
+    ],
+    "foodIds": [
+      "mahua-flowers",
+      "jackfruit",
+      "traditional-millets",
+      "wild-mushrooms",
+      "forest-tubers",
+      "indigenous-greens",
+      "moringa"
+    ],
+    "images": [
+      "/images/chapters/wild/page-146-image-01.png"
+    ],
+    "mapImage": null
+  },
+  {
+    "id": "west",
+    "title": "Foods of West India",
+    "shortTitle": "West India",
+    "range": [
+      184,
+      216
+    ],
+    "introPages": [
+      184,
+      185,
+      186
+    ],
+    "description": "Coastal rice traditions, desert plants and millet preparations reveal how western communities cook with their surroundings.",
+    "pages": [
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216
+    ],
+    "openingPages": [
+      {
+        "page": 184,
+        "text": "",
+        "images": [
+          "/images/chapters/west/page-184-image-01.png"
+        ]
+      },
+      {
+        "page": 185,
+        "text": "West India\nWestern India is known for its diverse culinary traditions, shaped by its\nclimate, geography, agriculture and cultural practices. The region includes\nGujarat, Rajasthan, Maharashtra and Goa.\nFrom the dry landscapes of Rajasthan to the coastal communities of\nMaharashtra and Goa, traditional food reflects the ingredients available in\neach area. Millets, pulses, vegetables, grains, spices and coconut play\nimportant roles in regional cuisines.\nWest Indian food heritage represents a combination of traditional cooking\nmethods, seasonal ingredients and knowledge passed down through\ngenerations.",
+        "images": []
+      },
+      {
+        "page": 186,
+        "text": "Important Ingredients of West India\nBajra: Commonly used in Rajasthan and Gujarat.\nJowar: Used in traditional flatbreads, especially in Maharashtra.\nPulses and legumes: Important sources of protein in everyday meals.\nPeanuts: Widely used in Gujarati and Maharashtrian cooking.\nCoconut: An important ingredient in Goa's coastal cuisine.\nKokum: A regional souring ingredient used in western coastal cooking.\nTraditional Cooking Methods\nRoasting: Used to prepare traditional breads and grains.\nSun-drying: Used to preserve seasonal ingredients.\nSlow cooking: Helps develop flavours in traditional curries and vegetable\npreparations.\nPickling: Used to preserve fruits and vegetables with salt, oil and spices.\nEarthen-pot cooking: Traditional vessels are used in some regional\npreparations.",
+        "images": []
+      }
+    ],
+    "foodIds": [
+      "ghavan",
+      "bajra-raab",
+      "jowar-ambil",
+      "ker-sangri-west",
+      "patholi"
+    ],
+    "images": [
+      "/images/chapters/west/page-184-image-01.png"
+    ],
+    "mapImage": "/images/chapters/west/page-184-image-01.png"
+  },
+  {
+    "id": "credits",
+    "title": "Digital Book and Copyrights",
+    "shortTitle": "Credits",
+    "range": [
+      217,
+      218
+    ],
+    "introPages": [
+      217,
+      218
+    ],
+    "description": "Project credits and acknowledgements from the original digital book.",
+    "pages": [
+      217,
+      218
+    ],
+    "openingPages": [
+      {
+        "page": 217,
+        "text": "COPYRIGHT & DIGITAL CREDITS\nForgotten Foods of India\nTraditional Fermented Foods & Regional Food Heritage\n© 2026 Student Project Team. All rights reserved.\nThis digital coffee-table book is a student-created project celebrating India's\ndiverse culinary heritage, traditional food knowledge, regional identities, naturally\ngrown and wild foods, and fermentation practices.\nThe original text, research presentation, photographs, illustrations, and visual\ndesigns created by the contributors are their respective original works.",
+        "images": []
+      },
+      {
+        "page": 218,
+        "text": "Traditional recipes, cultural practices, and indigenous food knowledge are\nacknowledged as part of the heritage of their respective communities. This\npublication does not claim ownership of that knowledge.\nCreated by\nAkshayKumar · S. Banu · D.shyamson· Bpoojith · · BTBhuvan. RVSJagadish\nDigital Publication · 2026\nThird-party photographs, illustrations, and reference materials remain the\nproperty of their respective creators and are credited where applicable.\nCelebrating the flavours, stories, and traditions of India — preserving heritage\nfor generations to come.",
+        "images": []
+      }
+    ],
+    "foodIds": [],
+    "images": [],
+    "mapImage": null
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "page": 1,
+    "index": 1,
+    "file": "/images/chapters/front-matter/page-001-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 2323081,
+    "foodId": null
+  },
+  {
+    "page": 4,
+    "index": 1,
+    "file": "/images/chapters/heritage/page-004-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 367971,
+    "foodId": null
+  },
+  {
+    "page": 9,
+    "index": 1,
+    "file": "/images/chapters/north/page-009-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 551182,
+    "foodId": null
+  },
+  {
+    "page": 11,
+    "index": 1,
+    "file": "/images/foods/north/siddu/page-011-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 406240,
+    "foodId": "siddu"
+  },
+  {
+    "page": 11,
+    "index": 2,
+    "file": "/images/foods/north/siddu/page-011-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 491170,
+    "foodId": "siddu"
+  },
+  {
+    "page": 17,
+    "index": 1,
+    "file": "/images/foods/north/chainsoo/page-017-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 677205,
+    "foodId": "chainsoo"
+  },
+  {
+    "page": 24,
+    "index": 1,
+    "file": "/images/foods/north/haak/page-024-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 1224924,
+    "foodId": "haak"
+  },
+  {
+    "page": 24,
+    "index": 2,
+    "file": "/images/foods/north/haak/page-024-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 338316,
+    "foodId": "haak"
+  },
+  {
+    "page": 30,
+    "index": 1,
+    "file": "/images/foods/north/ker-sangri-rajasthan/page-030-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 842417,
+    "foodId": "ker-sangri-rajasthan"
+  },
+  {
+    "page": 30,
+    "index": 2,
+    "file": "/images/foods/north/ker-sangri-rajasthan/page-030-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 1051188,
+    "foodId": "ker-sangri-rajasthan"
+  },
+  {
+    "page": 36,
+    "index": 1,
+    "file": "/images/foods/north/mah-di-dal/page-036-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 452010,
+    "foodId": "mah-di-dal"
+  },
+  {
+    "page": 36,
+    "index": 2,
+    "file": "/images/foods/north/mah-di-dal/page-036-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 759765,
+    "foodId": "mah-di-dal"
+  },
+  {
+    "page": 42,
+    "index": 1,
+    "file": "/images/chapters/fermentation/page-042-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 2796357,
+    "foodId": null
+  },
+  {
+    "page": 46,
+    "index": 1,
+    "file": "/images/foods/fermentation/hawaijar/page-046-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 437104,
+    "foodId": "hawaijar"
+  },
+  {
+    "page": 46,
+    "index": 2,
+    "file": "/images/foods/fermentation/hawaijar/page-046-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 637911,
+    "foodId": "hawaijar"
+  },
+  {
+    "page": 52,
+    "index": 1,
+    "file": "/images/foods/fermentation/soibum/page-052-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 254322,
+    "foodId": "soibum"
+  },
+  {
+    "page": 52,
+    "index": 2,
+    "file": "/images/foods/fermentation/soibum/page-052-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 410184,
+    "foodId": "soibum"
+  },
+  {
+    "page": 59,
+    "index": 1,
+    "file": "/images/foods/fermentation/sinki/page-059-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 1290823,
+    "foodId": "sinki"
+  },
+  {
+    "page": 59,
+    "index": 2,
+    "file": "/images/foods/fermentation/sinki/page-059-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 1126646,
+    "foodId": "sinki"
+  },
+  {
+    "page": 65,
+    "index": 1,
+    "file": "/images/foods/fermentation/gundruk/page-065-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 411850,
+    "foodId": "gundruk"
+  },
+  {
+    "page": 65,
+    "index": 2,
+    "file": "/images/foods/fermentation/gundruk/page-065-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 1025299,
+    "foodId": "gundruk"
+  },
+  {
+    "page": 72,
+    "index": 1,
+    "file": "/images/foods/fermentation/pazhaya-sadham/page-072-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 438991,
+    "foodId": "pazhaya-sadham"
+  },
+  {
+    "page": 72,
+    "index": 2,
+    "file": "/images/foods/fermentation/pazhaya-sadham/page-072-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 331778,
+    "foodId": "pazhaya-sadham"
+  },
+  {
+    "page": 79,
+    "index": 1,
+    "file": "/images/chapters/south/page-079-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 2086269,
+    "foodId": null
+  },
+  {
+    "page": 81,
+    "index": 1,
+    "file": "/images/foods/south/ragi-sangati/page-081-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 352160,
+    "foodId": "ragi-sangati"
+  },
+  {
+    "page": 81,
+    "index": 2,
+    "file": "/images/foods/south/ragi-sangati/page-081-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 440455,
+    "foodId": "ragi-sangati"
+  },
+  {
+    "page": 88,
+    "index": 1,
+    "file": "/images/foods/south/ambali/page-088-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 833953,
+    "foodId": "ambali"
+  },
+  {
+    "page": 88,
+    "index": 2,
+    "file": "/images/foods/south/ambali/page-088-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 478961,
+    "foodId": "ambali"
+  },
+  {
+    "page": 94,
+    "index": 1,
+    "file": "/images/foods/south/chakka-puzhukku/page-094-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 326668,
+    "foodId": "chakka-puzhukku"
+  },
+  {
+    "page": 94,
+    "index": 2,
+    "file": "/images/foods/south/chakka-puzhukku/page-094-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 285714,
+    "foodId": "chakka-puzhukku"
+  },
+  {
+    "page": 101,
+    "index": 1,
+    "file": "/images/foods/south/ulundhu-kali/page-101-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 885279,
+    "foodId": "ulundhu-kali"
+  },
+  {
+    "page": 101,
+    "index": 2,
+    "file": "/images/foods/south/ulundhu-kali/page-101-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 748350,
+    "foodId": "ulundhu-kali"
+  },
+  {
+    "page": 107,
+    "index": 1,
+    "file": "/images/foods/south/basale-pundi/page-107-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 490741,
+    "foodId": "basale-pundi"
+  },
+  {
+    "page": 107,
+    "index": 2,
+    "file": "/images/foods/south/basale-pundi/page-107-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 705634,
+    "foodId": "basale-pundi"
+  },
+  {
+    "page": 113,
+    "index": 1,
+    "file": "/images/chapters/east/page-113-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 680577,
+    "foodId": null
+  },
+  {
+    "page": 116,
+    "index": 1,
+    "file": "/images/foods/east/gohona-bori/page-116-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 373002,
+    "foodId": "gohona-bori"
+  },
+  {
+    "page": 116,
+    "index": 2,
+    "file": "/images/foods/east/gohona-bori/page-116-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 323431,
+    "foodId": "gohona-bori"
+  },
+  {
+    "page": 122,
+    "index": 1,
+    "file": "/images/foods/east/enduri-pitha/page-122-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 1041276,
+    "foodId": "enduri-pitha"
+  },
+  {
+    "page": 122,
+    "index": 2,
+    "file": "/images/foods/east/enduri-pitha/page-122-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 679221,
+    "foodId": "enduri-pitha"
+  },
+  {
+    "page": 128,
+    "index": 1,
+    "file": "/images/foods/east/dal-pitha/page-128-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 283121,
+    "foodId": "dal-pitha"
+  },
+  {
+    "page": 128,
+    "index": 2,
+    "file": "/images/foods/east/dal-pitha/page-128-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 1605471,
+    "foodId": "dal-pitha"
+  },
+  {
+    "page": 134,
+    "index": 1,
+    "file": "/images/foods/east/jadoh/page-134-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 2869097,
+    "foodId": "jadoh"
+  },
+  {
+    "page": 134,
+    "index": 2,
+    "file": "/images/foods/east/jadoh/page-134-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 1378463,
+    "foodId": "jadoh"
+  },
+  {
+    "page": 140,
+    "index": 1,
+    "file": "/images/foods/east/eromba/page-140-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 1404929,
+    "foodId": "eromba"
+  },
+  {
+    "page": 146,
+    "index": 1,
+    "file": "/images/chapters/wild/page-146-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 627007,
+    "foodId": null
+  },
+  {
+    "page": 147,
+    "index": 1,
+    "file": "/images/foods/wild/mahua-flowers/page-147-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 548791,
+    "foodId": "mahua-flowers"
+  },
+  {
+    "page": 148,
+    "index": 1,
+    "file": "/images/foods/wild/jackfruit/page-148-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 294497,
+    "foodId": "jackfruit"
+  },
+  {
+    "page": 149,
+    "index": 1,
+    "file": "/images/foods/wild/traditional-millets/page-149-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 192204,
+    "foodId": "traditional-millets"
+  },
+  {
+    "page": 149,
+    "index": 2,
+    "file": "/images/foods/wild/traditional-millets/page-149-image-02.png",
+    "originalName": "X7.png",
+    "bytes": 740990,
+    "foodId": "traditional-millets"
+  },
+  {
+    "page": 154,
+    "index": 1,
+    "file": "/images/foods/wild/mahua-flowers/page-154-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 76483,
+    "foodId": "mahua-flowers"
+  },
+  {
+    "page": 154,
+    "index": 2,
+    "file": "/images/foods/wild/mahua-flowers/page-154-image-02.png",
+    "originalName": "X7.png",
+    "bytes": 96540,
+    "foodId": "mahua-flowers"
+  },
+  {
+    "page": 160,
+    "index": 1,
+    "file": "/images/foods/wild/wild-mushrooms/page-160-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 81663,
+    "foodId": "wild-mushrooms"
+  },
+  {
+    "page": 160,
+    "index": 2,
+    "file": "/images/foods/wild/wild-mushrooms/page-160-image-02.png",
+    "originalName": "X7.png",
+    "bytes": 103582,
+    "foodId": "wild-mushrooms"
+  },
+  {
+    "page": 166,
+    "index": 1,
+    "file": "/images/foods/wild/forest-tubers/page-166-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 637396,
+    "foodId": "forest-tubers"
+  },
+  {
+    "page": 166,
+    "index": 2,
+    "file": "/images/foods/wild/forest-tubers/page-166-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 300061,
+    "foodId": "forest-tubers"
+  },
+  {
+    "page": 172,
+    "index": 1,
+    "file": "/images/foods/wild/indigenous-greens/page-172-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 640620,
+    "foodId": "indigenous-greens"
+  },
+  {
+    "page": 172,
+    "index": 2,
+    "file": "/images/foods/wild/indigenous-greens/page-172-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 616917,
+    "foodId": "indigenous-greens"
+  },
+  {
+    "page": 178,
+    "index": 1,
+    "file": "/images/foods/wild/moringa/page-178-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 489651,
+    "foodId": "moringa"
+  },
+  {
+    "page": 178,
+    "index": 2,
+    "file": "/images/foods/wild/moringa/page-178-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 682488,
+    "foodId": "moringa"
+  },
+  {
+    "page": 184,
+    "index": 1,
+    "file": "/images/chapters/west/page-184-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 2509601,
+    "foodId": null
+  },
+  {
+    "page": 187,
+    "index": 1,
+    "file": "/images/foods/west/ghavan/page-187-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 475654,
+    "foodId": "ghavan"
+  },
+  {
+    "page": 187,
+    "index": 2,
+    "file": "/images/foods/west/ghavan/page-187-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 282772,
+    "foodId": "ghavan"
+  },
+  {
+    "page": 193,
+    "index": 1,
+    "file": "/images/foods/west/bajra-raab/page-193-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 345999,
+    "foodId": "bajra-raab"
+  },
+  {
+    "page": 199,
+    "index": 1,
+    "file": "/images/foods/west/jowar-ambil/page-199-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 347949,
+    "foodId": "jowar-ambil"
+  },
+  {
+    "page": 199,
+    "index": 2,
+    "file": "/images/foods/west/jowar-ambil/page-199-image-02.png",
+    "originalName": "X6.png",
+    "bytes": 375416,
+    "foodId": "jowar-ambil"
+  },
+  {
+    "page": 205,
+    "index": 1,
+    "file": "/images/foods/west/ker-sangri-west/page-205-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 370853,
+    "foodId": "ker-sangri-west"
+  },
+  {
+    "page": 211,
+    "index": 1,
+    "file": "/images/foods/west/patholi/page-211-image-01.png",
+    "originalName": "X4.png",
+    "bytes": 186832,
+    "foodId": "patholi"
+  }
+]
